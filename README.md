@@ -6,10 +6,6 @@ A responsive **Social Proof Section** built with HTML and Tailwind CSS as a [Fro
 
 The project showcases customer ratings and testimonials in a clean, organized layout while practicing responsive design and Tailwind CSS utilities.
 
-## Preview
-
-![Social Proof Section Preview](./design/desktop-preview.jpg)
-
 ## Built With
 
 - HTML5
